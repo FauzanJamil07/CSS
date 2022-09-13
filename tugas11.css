@@ -1,0 +1,13 @@
+#header h1{
+    color: red;
+}
+
+#header h2{
+    color: rgb(129, 0, 0);
+    background-color: rgb(241, 78, 78);
+}
+
+.sidebar p{
+    color: green;
+    background-color: yellow;
+}
